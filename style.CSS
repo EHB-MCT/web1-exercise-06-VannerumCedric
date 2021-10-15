@@ -1,0 +1,40 @@
+body{
+    font-family: 'Abel', sans-serif;
+    margin: 0;
+    position: relative;
+    float: auto;
+    color: white;
+}
+
+.wrapper{
+    width: 1900px;
+    height: 900;
+    background-image: url(images/coco.jpg);
+    background-size: cover;
+    margin:0;
+    position: relative;
+}
+#logo{
+    width: 50%;
+    padding: 50px;
+}
+h2{
+font-size: 35px;
+}
+
+p{
+font-size: 18px;
+margin-bottom: 50px;
+}
+
+.titel{
+    width: 50%;
+    position: relative;
+    float: right;
+}
+#knop{
+background-color: orange;
+text-decoration: none;
+padding: 12px;
+border-radius: 10px;
+}
